@@ -3,7 +3,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.metafour-arnob</groupId>
   <artifactId>FitnessTracker</artifactId>
-  <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>FitnessTracker Maven Webapp</name>
   <url>http://maven.apache.org</url>
@@ -35,4 +34,5 @@
   <build>
     <finalName>FitnessTracker</finalName>
   </build>
+  <packaging>war</packaging>
 </project>
